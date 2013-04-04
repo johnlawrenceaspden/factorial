@@ -1,4 +1,4 @@
-(defproject org.clojars.john-lawrence-aspden/factorial "0.1.0-SNAPSHOT"
+(defproject factorial/factorial "0.1.0-SNAPSHOT"
   :description "Everybody Loves the Factorial Function"
   :url "http://github.com/johnlawrenceaspden/factorial"
   :license {:name "Eclipse Public License"
